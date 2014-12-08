@@ -1,0 +1,68 @@
+{
+  "name": "hours",
+  "description": "Get the number of hours for a day, week and the elapsed hours for the current day.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jonschlinkert/hours",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jonschlinkert/hours.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/hours/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/jonschlinkert/hours/blob/master/LICENSE-MIT"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "dependencies": {
+    "seconds": "^0.2.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "moment": "^2.8.4",
+    "should": "*"
+  },
+  "keywords": [
+    "am",
+    "calendar",
+    "clock",
+    "date",
+    "day",
+    "days",
+    "duration",
+    "friday",
+    "hour",
+    "hours",
+    "hr",
+    "meridiem",
+    "min",
+    "minutes",
+    "monday",
+    "now",
+    "pm",
+    "saturday",
+    "sec",
+    "second",
+    "seconds",
+    "sunday",
+    "thursday",
+    "time",
+    "times",
+    "timespan",
+    "tuesday",
+    "wednesday",
+    "week",
+    "weekday"
+  ]
+}
